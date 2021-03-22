@@ -1,6 +1,6 @@
-[submodule "Math"]
-	path = Math
-	url = https://github.com/bjarkebrodin/math
 [submodule "Algorithms"]
 	path = Algorithms
 	url = https://github.com/bjarkebrodin/algorithms
+[submodule "Math"]
+	path = Math
+	url = https://github.com/bjarkebrodin/math
